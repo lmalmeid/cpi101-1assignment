@@ -1,0 +1,19 @@
+body {background-color: pink;}
+h1 {color: white;}
+h2 {color: white;}
+p {color: white;}
+a {color: white;}
+ul {color: white;}
+.image {
+	position: relative;
+	width: 100%;
+}
+.image_top {
+	position: relative;
+	padding: 10x;
+	top: 40px;
+	left: 300px;
+	font-size: 20px;
+	color:white;
+	width: 100%;
+}
